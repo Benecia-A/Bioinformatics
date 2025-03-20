@@ -1,0 +1,11 @@
+3. muscle -in bats_ace2.fasta -out bats_ace2_aligned.fasta
+raxmlHPC -s bats_ace2_aligned.fasta -n output_tree -m GTRGAMMA -p 12345 -# 100 -f a
+
+4. Pteropus lylei ace2
+Dobsonia viridis ace2
+Rousettus leschenaultii ace2
+Epomophorus wahlbergi ace2
+Cynopterus sphinx ace2
+Syconycteris australis ace2
+
+5. Understanding this phylogeny helps track antibiotic resistance, study pathogen evolution, and improve public health responses. Scientists can identify bacterial strains with resistance genes by analyzing genetic relationships, tracing disease origins, and predicting future outbreaks. It also helps with mutations that increase virulence or transmissibility, guiding the development of targeted treatments and vaccines. Ultimately, this information supports better surveillance, containment strategies, and medical advancements to combat emerging health threats.
