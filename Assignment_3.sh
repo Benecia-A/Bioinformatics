@@ -12,7 +12,7 @@ awk '{print $5}' /Users/benecia/Desktop/pandas.tsv | sort | uniq > /Users/beneci
 sed -e 's/female/F/g' -e 's/male/M/g'  /Users/benecia/Desktop/pandas.tsv > /Users/benecia/Desktop/panda_m_f.txt
 
 #5
-grep -c "October" /Users/benecia/Desktop/pandas.tsv
+grep "female" /Users/benecia/Desktop/pandas.tsv | grep -c "October"
 
 #6
 grep -n '^' /Users/benecia/Desktop/pandas.tsv | sed 's/:/ /' > /Users/benecia/Desktop/panda_names.txt
