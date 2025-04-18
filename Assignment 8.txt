@@ -1,0 +1,14 @@
+Assignment 8
+
+1. Gorilla gorilla (gorGor4)
+
+2. ARHGAP17
+
+3. Rank 1 target sequence: TACTGGTCTCGGTCTCGGTAAGG
+   Genomic location: 16:25222662
+
+4. Reference sequence: GTTGTGGGGGTGGGGGCACGCTGGGCCGGTTCCTTGGCTTTGGTACTGGTCTCGGTCTCG<>GTAAGGTTCCAGCATGTGGCTGTGCAGTCTCAGGGTTACCCCCCGCCAGGGTCTGAGGAG
+   Left primer: CCTAGGAAAACAGAACCCCAGT
+   Right primer: CAAAAGCAATGTAGAGCAGACG
+
+5. Knocking out ARHGAP17 in a gorilla would likely disrupt epithelial cell polarity and the integrity of tight junctions, leading to broader issues with tissue organization and barrier function. This could result in increased permeability of epithelial layers, impaired regulation of cellular shape and movement, and altered signaling due to misregulated Rho GTPase activity. 
